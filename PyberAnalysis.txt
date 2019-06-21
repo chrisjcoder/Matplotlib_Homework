@@ -1,0 +1,10 @@
+Pyber Data Analysis
+
+Here are 3 observations from the pyber data:
+
+Greatest driver count and number of rides occurs in the Urban zone as expected. 
+
+Average Fare is lowest in the Urban zone. How can we rise the average fare per ride? Carpool? Express Service?
+
+Rural zone is the lowest in rides, drivers, and total fares. Is this area underserved? How can we provide more availability 
+to the Rural and Suburban zones?
